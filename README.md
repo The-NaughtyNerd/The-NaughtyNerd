@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-naughtynerd&label=Profile%20views&color=0e75b6&style=flat" alt="the-naughtynerd" /> </p>
 
-- 🔭 I’m currently working on **SkyBlue Web App**
+- 🔭 I’m currently working on **Learning JavaScript**
 
-- 🌱 I’m currently learning **CSS (SASS), JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, Web design**
+- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Web design**
 
 - 📫 How to reach me **davemoneymachine@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am a NaughtyNerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
