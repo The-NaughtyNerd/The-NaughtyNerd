@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-naughtynerd&label=Profile%20views&color=0e75b6&style=flat" alt="the-naughtynerd" /> </p> -->
 
-- 🔭 I’m currently working on **Learning JavaScript**
+- 🔭 I’m currently working on **Learning ReactJS**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Web design**
+- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Javascript Web design**
 
 - 📫 How to reach me **davemoneymachine@gmail.com**
 
