@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Javascript Web design**
+- 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Javascript and Web design**
 
 - 📫 How to reach me **davemoneymachine@gmail.com**
 
